@@ -1,5 +1,6 @@
 # 💫 About Me:
-eu sou um estudante
+Sou Eduardo, desenvolvedor front-end com 6 meses de experiência focado em criar interfaces intuitivas e responsivas. Tenho habilidades sólidas em HTML, CSS, JavaScript e estou aprimorando meu conhecimento em frameworks modernos como React e Angular. Sou apaixonado por desenvolver soluções inovadoras e estou comprometido em contribuir para projetos que melhorem a experiência do usuário. Estou sempre em busca de aprender novas tecnologias e práticas que possam enriquecer meu trabalho.
+
 
 
 
