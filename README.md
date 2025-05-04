@@ -7,6 +7,7 @@ Sou Eduardo, desenvolvedor front-end com 6 meses de experiência focado em criar
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eduardolkk_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bruno-marquezini-967b3735b/)
+<a href="mailto:ebrunomarquezini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
 
 
 # 💻 Tech Stack:
