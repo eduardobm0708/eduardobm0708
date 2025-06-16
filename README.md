@@ -1,6 +1,3 @@
-# 💫 About Me:
-👋 Sou Eduardo, Desenvolvedor Full Stack
-
 
 
 ## 🌐 Socials:
