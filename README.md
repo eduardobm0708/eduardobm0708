@@ -1,5 +1,11 @@
 # 💫 About Me:
-Sou Eduardo, desenvolvedor front-end focado em criar interfaces intuitivas e responsivas. Tenho habilidades sólidas em HTML, CSS, JavaScript e estou aprimorando meu conhecimento em frameworks modernos como React. Sou apaixonado por desenvolver soluções inovadoras e estou comprometido em contribuir para projetos que melhorem a experiência do usuário. Estou sempre em busca de aprender novas tecnologias e práticas que possam enriquecer meu trabalho.
+Hello! 👋 Sou Eduardo, Desenvolvedor Full Stack apaixonado por criar soluções web inovadoras e de alta performance.
+
+Tech Stack:
+- Front-end: JavaScript, TypeScript, React.js
+- Back-end: Node.js
+
+🚀 Constantemente aprimorando minhas habilidades e explorando novas tecnologias.
 
 
 
