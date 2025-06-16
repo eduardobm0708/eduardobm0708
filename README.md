@@ -1,12 +1,5 @@
 # 💫 About Me:
-Hello! 👋 Sou Eduardo, Desenvolvedor Full Stack apaixonado por criar soluções web inovadoras e de alta performance.
-
-Tech Stack:
-- Front-end: JavaScript, TypeScript, React.js
-- Back-end: Node.js
-
-🚀 Constantemente aprimorando minhas habilidades e explorando novas tecnologias.
-
+👋 Sou Eduardo, Desenvolvedor Full Stack
 
 
 
