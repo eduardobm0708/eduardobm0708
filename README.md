@@ -4,6 +4,14 @@
 
 <div align="center">
 
+Desenvolvedor Full-Stack Júnior com experiência em aplicações web completas. Atuo desde o front-end ao back-end, com foco em performance e segurança.
+
+Desenvolvi projetos reais como um sistema completo de hamburgueria com painel administrativo e autenticação.
+
+Busco minha primeira oportunidade para contribuir com a equipe e evoluir como profissional.
+
+Confira meus projetos abaixo! Todos estão documentados para facilitar o entendimento.
+
 </div>
 
 <br>
