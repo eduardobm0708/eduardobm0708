@@ -109,4 +109,11 @@ desenvolvedor.digaOi();
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bruno-marquezini)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardobm0708)
 
+### 💭 Filosofia de Código
+*"O melhor código é aquele que resolve problemas reais, é maintível e escalável, inspirando outros desenvolvedores a criar soluções ainda melhores."*
+
+**✨ Sempre aberto a colaborações, ideias inovadoras e novos desafios em Full Stack Development! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
+
 </div>
