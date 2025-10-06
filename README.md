@@ -1,8 +1,8 @@
-# 👨‍💻 Eduardo Bruno Marquezini | Desenvolvedor Full Stack & Entusiasta de IA
+# 👨‍💻 Eduardo Bruno Marquezini | Desenvolvedor Full Stack 
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;Especialista+em+Python+%F0%9F%90%8D;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;Criador+de+Solu%C3%A7%C3%B5es+Inovadoras+%F0%9F%9A%80;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;Criador+de+Solu%C3%A7%C3%B5es+Inovadoras+%F0%9F%9A%80;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/SavioCodes?label=Seguidores&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/SavioCodes)
 [![GitHub stars](https://img.shields.io/github/stars/SavioCodes?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/SavioCodes)
@@ -33,7 +33,7 @@ class SavioCodes implements Developer {
   backend = ["Node.js", "TypeScript", "Express.js", "PostgreSQL", "MongoDB", "MySQL", "Docker", "AWS"];
   atualmenteAprendendo = ["Machine Learning", "Cybersecurity", "Cloud Computing", "Next.js"];
   objetivo = "Criar soluções que impactem positivamente a comunidade";
-  motto = "Código limpo é como uma obra de arte! 🎨";
+  motto = "Clean Code";
   
   digaOi(): void {
     console.log("Obrigado por visitar meu perfil! Vamos criar algo incrível juntos? 🚀");
