@@ -43,7 +43,7 @@ class SavioCodes implements Developer {
 const desenvolvedor = new SavioCodes();
 desenvolvedor.digaOi();
 ```
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Stacks
 
 <div align="center">
 
