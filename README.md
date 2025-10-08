@@ -96,10 +96,14 @@ dev.digaOi();
 
 
 ## 📂 Projetos em Destaque
-🍔 Sistema de Hamburgueria: Painel admin completo com autenticação JWT e React. Gerencia pedidos e estoque de forma eficiente. (⭐ 50+ | Tech: Node.js, PostgreSQL, Bootstrap)
-📊 Dashboard Web: Gráficos dinâmicos e integração com API REST. Reduziu tempo de processamento de dados em 30%. (🚀 Em progresso | Tech: React, Express.js, Chart.js)
-🔒 Autenticação JWT: Sistema seguro de login e gerenciamento de usuários com TypeScript. Aberto para contribuições open source! (Tech: Node.js, MongoDB)
-Mais projetos no meu GitHub. Sugestões de colaboração bem-vindas!
+
+- 🍔 [**DevBurger – Frontend**](https://github.com/eduardobm0708/devburger-frontEnd.git) – Interface interativa e responsiva do sistema de hamburgueria, incluindo carrinho e painel de produtos. **Tech:** React, TypeScript, Tailwind CSS, Vite  
+
+- 🍔 [**DevBurger – Backend**](https://github.com/eduardobm0708/devburguer-backend.git) – API REST para gerenciamento de produtos, categorias e usuários, com autenticação JWT. **Tech:** Node.js, TypeScript, Express, PostgreSQL, Docker  
+
+- 📊 [**Dashboard Web**](https://github.com/eduardobm0708/dashboard-web) – Visualização de métricas em tempo real com gráficos dinâmicos. **Tech:** React, Node.js, MongoDB, Chart.js  
+
+- 🔒 [**Auth JWT**](https://github.com/eduardobm0708/auth-jwt) – Sistema seguro de login e gerenciamento de usuários com tokens JWT. **Tech:** Node.js, TypeScript, PostgreSQL
 
 ---
 
