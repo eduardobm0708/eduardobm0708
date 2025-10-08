@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor **Full Stack** apaixonado por tecnologia, especializado em **Node.js**, **React**, **TypeScript** e **automação de sistemas**. Com experiência no desenvolvimento de aplicações web modernas e soluções inovadoras, busco constantemente aprender novas tecnologias e contribuir para a comunidade open source.
+Desenvolvedor **Full Stack** apaixonado por tecnologia, especializado em **JavaScript**, **Node.js**, **React**, **TypeScript** e **automação de sistemas**. Com experiência no desenvolvimento de aplicações web modernas e soluções inovadoras, busco constantemente aprender novas tecnologias e contribuir para a comunidade open source.
 
 
 ```typescript
