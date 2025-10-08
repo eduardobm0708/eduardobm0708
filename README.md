@@ -1,7 +1,6 @@
 # 👨‍💻 Eduardo Bruno Marquezini | Full Stack Developer
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x200/0891b2/ffffff?text=Eduardo+Bruno+Marquezini+-+Full+Stack+Dev+%F0%9F%92%BB" alt="Banner personalizado: Eduardo Bruno Marquezini - Desenvolvedor Full Stack" width="100%">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;Criador+de+Solu%C3%A7%C3%B5es+Inovadoras+%F0%9F%9A%80;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F;Learning+AI+%26+Next.js+%F0%9F%A4%96)](https://git.io/typing-svg)
 
