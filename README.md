@@ -23,7 +23,7 @@ Aplicação de pedidos com API em Node.js e front em React.
 ## Tech Stack
 
 **Backend:**  
-Java • Spring Boot • Spring Web • Spring Data JPA • Redis • Kafka • PostgreSQL  
+Java • Spring Boot • Spring Web • Spring Data JPA • Redis • Kafka • PostgreSQL • Node.js • Javascript
 
 **Arquitetura:**  
 Microservices • Event-Driven Architecture • Alta Concorrência • Consistência Eventual  
