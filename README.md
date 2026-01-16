@@ -1,42 +1,76 @@
 # Eduardo Bruno Marquezini
 
-Backend Developer especialista em **Java, Spring Boot, Redis, Kafka e PostgreSQL**.  
-Atuo no desenvolvimento de sistemas escaláveis, orientados a eventos e preparados para alta concorrência.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-bruno-marquezini)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eduardobm0708)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ebrunomarquezini@gmail.com)
+
+## 👨‍💻 Sobre Mim
+
+Backend Developer especializado em **Java** e **Spring Boot**, com foco em sistemas de **alta concorrência**, **arquitetura orientada a eventos** e **processamento distribuído**.
+
+Experiência prática com **Redis**, **Kafka** e **PostgreSQL** para construir aplicações escaláveis e resilientes.
 
 ---
 
-## Projetos
+## 🎯 Projetos em Destaque
 
-**Flash Sale Engine — Java + Spring Boot**  
-Sistema de alta concorrência com zero overselling, usando Redis (Lua Script) para atomicidade e Kafka para processamento distribuído.  
-https://github.com/eduardobm0708/flash-sale-engine-java
+### 🔥 [Flash Sale Engine](https://github.com/eduardobm0708/flash-sale-engine-java)
+> Sistema de vendas flash com **zero overselling**
 
-**DevBurger — Full Stack**  
-Aplicação de pedidos com API em Node.js e front em React.  
+| Tecnologia | Uso |
+|------------|-----|
+| Java + Spring Boot | Core da aplicação |
+| Redis (Lua Script) | Operações atômicas de estoque |
+| Kafka | Processamento assíncrono distribuído |
+| PostgreSQL | Persistência de dados |
 
-**Front-End:** https://github.com/eduardobm0708/devburger-frontEnd
-
-**Back-End:** https://github.com/eduardobm0708/devburguer-backend
-
----
-
-## Tech Stack
-
-**Backend:**  
-Java • Spring Boot • Spring Web • Spring Data JPA • Redis • Kafka • PostgreSQL • Node.js • Javascript
-
-**Arquitetura:**  
-Microservices • Event-Driven Architecture • Alta Concorrência • Consistência Eventual  
-
-**DevOps:**  
-Docker • Docker Compose • GitHub Actions • Postman • k6 • Swagger  
-
-**Frontend (Secundário):**  
-React • TypeScript  
+### Destaques Alta concorrência • Consistência garantida • Event-Driven
 
 ---
 
-## Contato
-LinkedIn: https://linkedin.com/in/eduardo-bruno-marquezini  
-GitHub: https://github.com/eduardobm0708  
-Email: ebrunomarquezini@gmail.com
+### 🍔 DevBurger — Full Stack
+> Aplicação completa de pedidos online
+
+| Repositório | Stack |
+|-------------|-------|
+| [Frontend](https://github.com/eduardobm0708/devburger-frontEnd) | React • TypeScript |
+| [Backend](https://github.com/eduardobm0708/devburguer-backend) | Node.js • JavaScript |
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Arquitetura & Conceitos
+`Microservices` • `Event-Driven Architecture` • `Alta Concorrência` • `Consistência Eventual`
+
+### DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobm0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobm0708&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 📫 Vamos Conversar?
+
+Estou sempre aberto a novas oportunidades e colaborações!
+
+- 💼 [LinkedIn](https://linkedin.com/in/eduardo-bruno-marquezini)
+
+- 📧 [ebrunomarquezini@gmail.com](mailto:ebrunomarquezini@gmail.com)
