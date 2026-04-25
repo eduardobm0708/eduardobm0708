@@ -31,57 +31,56 @@ Backend for a delivery system built with Node.js and PostgreSQL.
 - Docker containerization
 - CI/CD pipeline with GitHub Actions
 
-# Eduardo Bruno Marquezini
+#### ⚙️ How to Run
 
-## 🚀 Backend Developer | Node.js • REST APIs • PostgreSQL | AI Integration
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-bruno-marquezini)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eduardobm0708)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ebrunomarquezini@gmail.com)
+Check the full setup instructions in the repository:  
+https://github.com/eduardobm0708/devburguer-api-novo
 
 ---
 
-## 👨‍💻 About Me
+### 🔬 Flash Sale Engine (Experimental Project)
 
-Backend Developer focused on building REST APIs and real-world applications.
+Experimental project created to explore concepts of concurrency and distributed systems.
 
-I have hands-on experience developing backend systems using Node.js, PostgreSQL, authentication (JWT), and application structuring.
+#### 🧠 Focus
+- Understanding race conditions  
+- Data consistency challenges  
+- Asynchronous processing  
 
-Currently evolving towards backend development with AI integration, exploring how to build more intelligent and automated systems.
+⚠️ Built with strong support from AI tools as part of the learning process.
+
+#### 📌 Outcome
+Improved understanding of distributed systems concepts and backend architecture challenges.
+
+🔗 Repository:  
+https://github.com/eduardobm0708/flash-sale-engine-java
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🍔 DevBurger API (Main Project)
+### Backend
+- Node.js (Express)
+- PostgreSQL
+- REST APIs
 
-Backend for a delivery system built with Node.js and PostgreSQL.
+### Tools & DevOps
+- Docker
+- Git & GitHub
+- GitHub Actions
 
-#### 🚀 Features
-- REST API built with Node.js (Express)
-- JWT Authentication system
-- Relational database modeling (PostgreSQL)
-- Docker containerization
-- CI/CD pipeline with GitHub Actions
+### Currently Learning
+- AI integration in backend systems (OpenAI API, automation)
 
-#### 📸 Preview
-*(add here a screenshot or Postman print when possible)*
+---
 
-#### ⚙️ How to Run
-```bash
-git clone https://github.com/eduardobm0708/devburger-backend
-cd devburger-backend
-npm install
-docker-compose up
-npm run dev
+## 🌎 Goal
 
-#### 📸 Preview
-*(add here a screenshot or Postman print when possible)*
+Become a backend developer working on scalable and AI-powered systems internationally.
 
-#### ⚙️ How to Run
-```bash
-git clone https://github.com/eduardobm0708/devburger-backend
-cd devburger-backend
-npm install
-docker-compose up
-npm run dev
+---
+
+## 📫 Contact
+
+- 💼 https://linkedin.com/in/eduardo-bruno-marquezini  
+- 📧 ebrunomarquezini@gmail.com
