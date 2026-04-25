@@ -4,64 +4,66 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/eduardobm0708)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ebrunomarquezini@gmail.com)
 
-## 👨‍💻 Sobre Mim
+---
 
-Backend Developer especializado em **Java** e **Spring Boot**, com foco em sistemas de **alta concorrência**, **arquitetura orientada a eventos** e **processamento distribuído**.
+## 👨‍💻 About Me
 
-Experiência prática com **Redis**, **Kafka** e **PostgreSQL** para construir aplicações escaláveis e resilientes.
+Backend Developer focused on building REST APIs and real-world applications.
+
+I have hands-on experience with Node.js, PostgreSQL, authentication (JWT), and backend architecture.
+
+Currently evolving towards backend development with AI integration, exploring how to build more intelligent and automated systems.
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 🔥 [Flash Sale Engine](https://github.com/eduardobm0708/flash-sale-engine-java)
-> Sistema de vendas flash com **zero overselling**
+### 🍔 DevBurger API (Main Project)
+Backend for a delivery system built with Node.js and PostgreSQL.
 
-| Tecnologia | Uso |
-|------------|-----|
-| Java + Spring Boot | Core da aplicação |
-| Redis (Lua Script) | Operações atômicas de estoque |
-| Kafka | Processamento assíncrono distribuído |
-| PostgreSQL | Persistência de dados |
+**Features:**
+- REST API with Express
+- JWT Authentication
+- Relational database modeling (PostgreSQL)
+- Docker containerization
+- CI/CD with GitHub Actions
 
-### Destaques Alta concorrência • Consistência garantida • Event-Driven
+🔗 Backend: https://github.com/eduardobm0708/devburguer-backend
 
 ---
 
-### 🍔 DevBurger — Full Stack
-> Aplicação completa de pedidos online
+### 🔬 Flash Sale Engine (Experimental)
+Experimental project created to explore concepts of concurrency and distributed systems.
 
-| Repositório | Stack |
-|-------------|-------|
-| [Frontend](https://github.com/eduardobm0708/devburger-frontEnd) | React • TypeScript |
-| [Backend](https://github.com/eduardobm0708/devburguer-backend) | Node.js • JavaScript |
+**Focus:**
+- Understanding race conditions
+- Data consistency challenges
+- Asynchronous processing
+
+⚠️ Built with strong support from AI tools as part of the learning process.
+
+🔗 https://github.com/eduardobm0708/flash-sale-engine-java
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- Node.js (Express)
+- PostgreSQL
+- REST APIs
 
-### Arquitetura & Conceitos
-`Microservices` • `Event-Driven Architecture` • `Alta Concorrência` • `Consistência Eventual`
+### Tools
+- Docker
+- Git & GitHub
+- GitHub Actions
 
-### DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+### Currently Learning
+- AI Integration in backend systems
 
 ---
 
-## 📫 Vamos Conversar?
+## 📫 Contact
 
-Estou sempre aberto a novas oportunidades e colaborações!
-
-- 💼 [LinkedIn](https://linkedin.com/in/eduardo-bruno-marquezini)
-
-- 📧 [ebrunomarquezini@gmail.com](mailto:ebrunomarquezini@gmail.com)
+- 💼 https://linkedin.com/in/eduardo-bruno-marquezini
+- 📧 ebrunomarquezini@gmail.com
