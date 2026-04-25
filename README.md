@@ -34,7 +34,7 @@ Backend for a delivery system built with Node.js and PostgreSQL.
 #### ⚙️ How to Run
 
 Check the full setup instructions in the repository:  
-https://github.com/eduardobm0708/devburguer-api-novo
+github.com/eduardobm0708/devburguer-backend.git
 
 ---
 
@@ -53,7 +53,7 @@ Experimental project created to explore concepts of concurrency and distributed 
 Improved understanding of distributed systems concepts and backend architecture challenges.
 
 🔗 Repository:  
-https://github.com/eduardobm0708/flash-sale-engine-java
+github.com/eduardobm0708/flash-sale-engine-java
 
 ---
 
