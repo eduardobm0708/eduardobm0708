@@ -36,27 +36,6 @@ Backend for a delivery system built with Node.js and PostgreSQL.
 Check the full setup instructions in the repository:  
 github.com/eduardobm0708/devburguer-backend.git
 
----
-
-### 🔬 Flash Sale Engine (Experimental Project)
-
-Experimental project created to explore concepts of concurrency and distributed systems.
-
-#### 🧠 Focus
-- Understanding race conditions  
-- Data consistency challenges  
-- Asynchronous processing  
-
-⚠️ Built with strong support from AI tools as part of the learning process.
-
-#### 📌 Outcome
-Improved understanding of distributed systems concepts and backend architecture challenges.
-
-🔗 Repository:  
-github.com/eduardobm0708/flash-sale-engine-java
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
